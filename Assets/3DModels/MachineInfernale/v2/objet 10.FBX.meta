@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 585d36c7f2b20c94fa4de0acdbf39943
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bearing Planetary Lower 01
+    100002: Bearing Planetary Lower 02
+    100004: Bearing Planetary Lower 03
+    100006: Bearing Planetary Upper 01
+    100008: Bearing Planetary Upper 02
+    100010: Bearing Planetary Upper 03
+    100012: Bearing Solar Lower
+    100014: Bearing Solar Upper
+    100016: Gear Planetary (SDP-SI S1VS24-018F2016) 01
+    100018: Gear Planetary (SDP-SI S1VS24-018F2016) 02
+    100020: Gear Planetary (SDP-SI S1VS24-018F2016) 03
+    100022: Gear Ring (SDP-SI S1E64Z-024S072)
+    100024: Gear Solar (SDP-SI S1VS24-036F1516)
+    100026: Group001
+    100028: //RootNode
+    100030: Shaft Planetary 01
+    100032: Shaft Planetary 02
+    100034: Shaft Planetary 03
+    100036: Shaft Solar
+    400000: Bearing Planetary Lower 01
+    400002: Bearing Planetary Lower 02
+    400004: Bearing Planetary Lower 03
+    400006: Bearing Planetary Upper 01
+    400008: Bearing Planetary Upper 02
+    400010: Bearing Planetary Upper 03
+    400012: Bearing Solar Lower
+    400014: Bearing Solar Upper
+    400016: Gear Planetary (SDP-SI S1VS24-018F2016) 01
+    400018: Gear Planetary (SDP-SI S1VS24-018F2016) 02
+    400020: Gear Planetary (SDP-SI S1VS24-018F2016) 03
+    400022: Gear Ring (SDP-SI S1E64Z-024S072)
+    400024: Gear Solar (SDP-SI S1VS24-036F1516)
+    400026: Group001
+    400028: //RootNode
+    400030: Shaft Planetary 01
+    400032: Shaft Planetary 02
+    400034: Shaft Planetary 03
+    400036: Shaft Solar
+    2100000: Chromemetal
+    2100002: 02 - Default
+    2300000: Bearing Planetary Lower 01
+    2300002: Bearing Planetary Lower 02
+    2300004: Bearing Planetary Lower 03
+    2300006: Bearing Planetary Upper 01
+    2300008: Bearing Planetary Upper 02
+    2300010: Bearing Planetary Upper 03
+    2300012: Bearing Solar Lower
+    2300014: Bearing Solar Upper
+    2300016: Gear Planetary (SDP-SI S1VS24-018F2016) 01
+    2300018: Gear Planetary (SDP-SI S1VS24-018F2016) 02
+    2300020: Gear Planetary (SDP-SI S1VS24-018F2016) 03
+    2300022: Gear Ring (SDP-SI S1E64Z-024S072)
+    2300024: Gear Solar (SDP-SI S1VS24-036F1516)
+    2300026: Shaft Planetary 01
+    2300028: Shaft Planetary 02
+    2300030: Shaft Planetary 03
+    2300032: Shaft Solar
+    3300000: Bearing Planetary Lower 01
+    3300002: Bearing Planetary Lower 02
+    3300004: Bearing Planetary Lower 03
+    3300006: Bearing Planetary Upper 01
+    3300008: Bearing Planetary Upper 02
+    3300010: Bearing Planetary Upper 03
+    3300012: Bearing Solar Lower
+    3300014: Bearing Solar Upper
+    3300016: Gear Planetary (SDP-SI S1VS24-018F2016) 01
+    3300018: Gear Planetary (SDP-SI S1VS24-018F2016) 02
+    3300020: Gear Planetary (SDP-SI S1VS24-018F2016) 03
+    3300022: Gear Ring (SDP-SI S1E64Z-024S072)
+    3300024: Gear Solar (SDP-SI S1VS24-036F1516)
+    3300026: Shaft Planetary 01
+    3300028: Shaft Planetary 02
+    3300030: Shaft Planetary 03
+    3300032: Shaft Solar
+    4300000: Bearing Solar Lower
+    4300002: Bearing Solar Upper
+    4300004: Shaft Solar
+    4300006: Gear Solar (SDP-SI S1VS24-036F1516)
+    4300008: Gear Planetary (SDP-SI S1VS24-018F2016) 02
+    4300010: Bearing Planetary Lower 03
+    4300012: Shaft Planetary 03
+    4300014: Bearing Planetary Upper 03
+    4300016: Bearing Planetary Lower 02
+    4300018: Shaft Planetary 02
+    4300020: Bearing Planetary Upper 02
+    4300022: Bearing Planetary Lower 01
+    4300024: Shaft Planetary 01
+    4300026: Gear Planetary (SDP-SI S1VS24-018F2016) 01
+    4300028: Bearing Planetary Upper 01
+    4300030: Gear Planetary (SDP-SI S1VS24-018F2016) 03
+    4300032: Gear Ring (SDP-SI S1E64Z-024S072)
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

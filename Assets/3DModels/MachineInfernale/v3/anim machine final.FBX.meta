@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 9baebae73958b5b449300fdc5480aeec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 444554
+    100002: //RootNode
+    100004: Bearing Planetary Lower 01
+    100006: Bearing Planetary Lower 02
+    100008: Bearing Planetary Lower 03
+    100010: Bearing Planetary Upper 01
+    100012: Bearing Planetary Upper 02
+    100014: Bearing Planetary Upper 03
+    100016: Bearing Solar Lower
+    100018: Bearing Solar Upper
+    100020: Box05
+    100022: eau
+    100024: engrenage1
+    100026: Gate_Valve
+    100028: Gate_Valve001
+    100030: Gate_Valve002
+    100032: Gear Planetary (SDP-SI S1VS24-018F2016) 01
+    100034: Gear Planetary (SDP-SI S1VS24-018F2016) 02
+    100036: Gear Planetary (SDP-SI S1VS24-018F2016) 03
+    100038: Gear Ring (SDP-SI S1E64Z-024S072)
+    100040: Gear Solar (SDP-SI S1VS24-036F1516)
+    100042: Gear_050
+    100044: Gear_053
+    100046: MACHINE3
+    100048: Object001
+    100050: Object002
+    100052: objpolySurface2
+    100054: Shaft Planetary 01
+    100056: Shaft Planetary 02
+    100058: Shaft Planetary 03
+    100060: Shaft Solar
+    100062: vitre001
+    100064: "\uD29C\uBE0C_003"
+    100066: "\uD29C\uBE0C_004"
+    100068: "\uD29C\uBE0C_006"
+    100070: "\uD29C\uBE0C_2"
+    400000: 444554
+    400002: //RootNode
+    400004: Bearing Planetary Lower 01
+    400006: Bearing Planetary Lower 02
+    400008: Bearing Planetary Lower 03
+    400010: Bearing Planetary Upper 01
+    400012: Bearing Planetary Upper 02
+    400014: Bearing Planetary Upper 03
+    400016: Bearing Solar Lower
+    400018: Bearing Solar Upper
+    400020: Box05
+    400022: eau
+    400024: engrenage1
+    400026: Gate_Valve
+    400028: Gate_Valve001
+    400030: Gate_Valve002
+    400032: Gear Planetary (SDP-SI S1VS24-018F2016) 01
+    400034: Gear Planetary (SDP-SI S1VS24-018F2016) 02
+    400036: Gear Planetary (SDP-SI S1VS24-018F2016) 03
+    400038: Gear Ring (SDP-SI S1E64Z-024S072)
+    400040: Gear Solar (SDP-SI S1VS24-036F1516)
+    400042: Gear_050
+    400044: Gear_053
+    400046: MACHINE3
+    400048: Object001
+    400050: Object002
+    400052: objpolySurface2
+    400054: Shaft Planetary 01
+    400056: Shaft Planetary 02
+    400058: Shaft Planetary 03
+    400060: Shaft Solar
+    400062: vitre001
+    400064: "\uD29C\uBE0C_003"
+    400066: "\uD29C\uBE0C_004"
+    400068: "\uD29C\uBE0C_006"
+    400070: "\uD29C\uBE0C_2"
+    2100000: 'Material #200'
+    2100002: 'Material #203'
+    2100004: Chromemetal
+    2100006: 02 - Default
+    2100008: Brass_04
+    2100010: Steel_01
+    2100012: 'Material #41'
+    2100014: No Name
+    2100016: Default
+    2100018: 'Material #201'
+    2100020: 'Material #202'
+    2300000: Bearing Planetary Lower 01
+    2300002: Bearing Planetary Lower 02
+    2300004: Bearing Planetary Lower 03
+    2300006: Bearing Planetary Upper 01
+    2300008: Bearing Planetary Upper 02
+    2300010: Bearing Planetary Upper 03
+    2300012: Bearing Solar Lower
+    2300014: Bearing Solar Upper
+    2300016: Box05
+    2300018: eau
+    2300020: Gate_Valve
+    2300022: Gate_Valve001
+    2300024: Gate_Valve002
+    2300026: Gear Planetary (SDP-SI S1VS24-018F2016) 01
+    2300028: Gear Planetary (SDP-SI S1VS24-018F2016) 02
+    2300030: Gear Planetary (SDP-SI S1VS24-018F2016) 03
+    2300032: Gear Ring (SDP-SI S1E64Z-024S072)
+    2300034: Gear Solar (SDP-SI S1VS24-036F1516)
+    2300036: Gear_050
+    2300038: Gear_053
+    2300040: MACHINE3
+    2300042: Object001
+    2300044: Object002
+    2300046: objpolySurface2
+    2300048: Shaft Planetary 01
+    2300050: Shaft Planetary 02
+    2300052: Shaft Planetary 03
+    2300054: Shaft Solar
+    2300056: vitre001
+    2300058: "\uD29C\uBE0C_003"
+    2300060: "\uD29C\uBE0C_004"
+    2300062: "\uD29C\uBE0C_006"
+    2300064: "\uD29C\uBE0C_2"
+    3300000: Bearing Planetary Lower 01
+    3300002: Bearing Planetary Lower 02
+    3300004: Bearing Planetary Lower 03
+    3300006: Bearing Planetary Upper 01
+    3300008: Bearing Planetary Upper 02
+    3300010: Bearing Planetary Upper 03
+    3300012: Bearing Solar Lower
+    3300014: Bearing Solar Upper
+    3300016: Box05
+    3300018: eau
+    3300020: Gate_Valve
+    3300022: Gate_Valve001
+    3300024: Gate_Valve002
+    3300026: Gear Planetary (SDP-SI S1VS24-018F2016) 01
+    3300028: Gear Planetary (SDP-SI S1VS24-018F2016) 02
+    3300030: Gear Planetary (SDP-SI S1VS24-018F2016) 03
+    3300032: Gear Ring (SDP-SI S1E64Z-024S072)
+    3300034: Gear Solar (SDP-SI S1VS24-036F1516)
+    3300036: Gear_050
+    3300038: Gear_053
+    3300040: MACHINE3
+    3300042: Object001
+    3300044: Object002
+    3300046: objpolySurface2
+    3300048: Shaft Planetary 01
+    3300050: Shaft Planetary 02
+    3300052: Shaft Planetary 03
+    3300054: Shaft Solar
+    3300056: vitre001
+    3300058: "\uD29C\uBE0C_003"
+    3300060: "\uD29C\uBE0C_004"
+    3300062: "\uD29C\uBE0C_006"
+    3300064: "\uD29C\uBE0C_2"
+    4300000: MACHINE3
+    4300002: objpolySurface2
+    4300004: Bearing Solar Lower
+    4300006: Bearing Solar Upper
+    4300008: Shaft Solar
+    4300010: Gear Solar (SDP-SI S1VS24-036F1516)
+    4300012: Gear Planetary (SDP-SI S1VS24-018F2016) 02
+    4300014: Bearing Planetary Lower 03
+    4300016: Shaft Planetary 03
+    4300018: Bearing Planetary Upper 03
+    4300020: Bearing Planetary Lower 02
+    4300022: Shaft Planetary 02
+    4300024: Bearing Planetary Upper 02
+    4300026: Bearing Planetary Lower 01
+    4300028: Shaft Planetary 01
+    4300030: Gear Planetary (SDP-SI S1VS24-018F2016) 01
+    4300032: Bearing Planetary Upper 01
+    4300034: Gear Planetary (SDP-SI S1VS24-018F2016) 03
+    4300036: Gear Ring (SDP-SI S1E64Z-024S072)
+    4300038: Gear_050
+    4300040: Gear_053
+    4300042: "\uD29C\uBE0C_2"
+    4300044: "\uD29C\uBE0C_003"
+    4300046: "\uD29C\uBE0C_004"
+    4300048: "\uD29C\uBE0C_006"
+    4300050: Gate_Valve
+    4300052: Gate_Valve001
+    4300054: Gate_Valve002
+    4300056: Box05
+    4300058: Object001
+    4300060: Object002
+    4300062: vitre001
+    4300064: eau
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 5e47450aafdde8b4d8adde8aaf44bf39
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bearing Planetary Lower 01
+    100002: Bearing Planetary Lower 02
+    100004: Bearing Planetary Lower 03
+    100006: Bearing Planetary Upper 01
+    100008: Bearing Planetary Upper 02
+    100010: Bearing Planetary Upper 03
+    100012: Bearing Solar Lower
+    100014: Bearing Solar Upper
+    100016: Box05
+    100018: coeur
+    100020: engrenage1
+    100022: f
+    100024: Gate_Valve
+    100026: Gate_Valve001
+    100028: Gate_Valve002
+    100030: Gear Planetary (SDP-SI S1VS24-018F2016) 01
+    100032: Gear Planetary (SDP-SI S1VS24-018F2016) 02
+    100034: Gear Planetary (SDP-SI S1VS24-018F2016) 03
+    100036: Gear Ring (SDP-SI S1E64Z-024S072)
+    100038: Gear Solar (SDP-SI S1VS24-036F1516)
+    100040: Gear_050
+    100042: Gear_053
+    100044: //RootNode
+    100046: Shaft Planetary 01
+    100048: Shaft Planetary 02
+    100050: Shaft Planetary 03
+    100052: Shaft Solar
+    100054: "\uD29C\uBE0C_003"
+    100056: "\uD29C\uBE0C_004"
+    100058: "\uD29C\uBE0C_006"
+    100060: "\uD29C\uBE0C_2"
+    400000: Bearing Planetary Lower 01
+    400002: Bearing Planetary Lower 02
+    400004: Bearing Planetary Lower 03
+    400006: Bearing Planetary Upper 01
+    400008: Bearing Planetary Upper 02
+    400010: Bearing Planetary Upper 03
+    400012: Bearing Solar Lower
+    400014: Bearing Solar Upper
+    400016: Box05
+    400018: coeur
+    400020: engrenage1
+    400022: f
+    400024: Gate_Valve
+    400026: Gate_Valve001
+    400028: Gate_Valve002
+    400030: Gear Planetary (SDP-SI S1VS24-018F2016) 01
+    400032: Gear Planetary (SDP-SI S1VS24-018F2016) 02
+    400034: Gear Planetary (SDP-SI S1VS24-018F2016) 03
+    400036: Gear Ring (SDP-SI S1E64Z-024S072)
+    400038: Gear Solar (SDP-SI S1VS24-036F1516)
+    400040: Gear_050
+    400042: Gear_053
+    400044: //RootNode
+    400046: Shaft Planetary 01
+    400048: Shaft Planetary 02
+    400050: Shaft Planetary 03
+    400052: Shaft Solar
+    400054: "\uD29C\uBE0C_003"
+    400056: "\uD29C\uBE0C_004"
+    400058: "\uD29C\uBE0C_006"
+    400060: "\uD29C\uBE0C_2"
+    2100000: Chromemetal
+    2100002: 02 - Default
+    2100004: 01 - Default
+    2100006: 'Material #47'
+    2100008: Metal_Dark_Gold
+    2100010: Glass
+    2100012: Brass_04
+    2100014: Steel_01
+    2100016: 'Material #41'
+    2100018: No Name
+    2100020: Default
+    2300000: Bearing Planetary Lower 01
+    2300002: Bearing Planetary Lower 02
+    2300004: Bearing Planetary Lower 03
+    2300006: Bearing Planetary Upper 01
+    2300008: Bearing Planetary Upper 02
+    2300010: Bearing Planetary Upper 03
+    2300012: Bearing Solar Lower
+    2300014: Bearing Solar Upper
+    2300016: Box05
+    2300018: coeur
+    2300020: f
+    2300022: Gate_Valve
+    2300024: Gate_Valve001
+    2300026: Gate_Valve002
+    2300028: Gear Planetary (SDP-SI S1VS24-018F2016) 01
+    2300030: Gear Planetary (SDP-SI S1VS24-018F2016) 02
+    2300032: Gear Planetary (SDP-SI S1VS24-018F2016) 03
+    2300034: Gear Ring (SDP-SI S1E64Z-024S072)
+    2300036: Gear Solar (SDP-SI S1VS24-036F1516)
+    2300038: Gear_050
+    2300040: Gear_053
+    2300042: Shaft Planetary 01
+    2300044: Shaft Planetary 02
+    2300046: Shaft Planetary 03
+    2300048: Shaft Solar
+    2300050: "\uD29C\uBE0C_003"
+    2300052: "\uD29C\uBE0C_004"
+    2300054: "\uD29C\uBE0C_006"
+    2300056: "\uD29C\uBE0C_2"
+    3300000: Bearing Planetary Lower 01
+    3300002: Bearing Planetary Lower 02
+    3300004: Bearing Planetary Lower 03
+    3300006: Bearing Planetary Upper 01
+    3300008: Bearing Planetary Upper 02
+    3300010: Bearing Planetary Upper 03
+    3300012: Bearing Solar Lower
+    3300014: Bearing Solar Upper
+    3300016: Box05
+    3300018: coeur
+    3300020: f
+    3300022: Gate_Valve
+    3300024: Gate_Valve001
+    3300026: Gate_Valve002
+    3300028: Gear Planetary (SDP-SI S1VS24-018F2016) 01
+    3300030: Gear Planetary (SDP-SI S1VS24-018F2016) 02
+    3300032: Gear Planetary (SDP-SI S1VS24-018F2016) 03
+    3300034: Gear Ring (SDP-SI S1E64Z-024S072)
+    3300036: Gear Solar (SDP-SI S1VS24-036F1516)
+    3300038: Gear_050
+    3300040: Gear_053
+    3300042: Shaft Planetary 01
+    3300044: Shaft Planetary 02
+    3300046: Shaft Planetary 03
+    3300048: Shaft Solar
+    3300050: "\uD29C\uBE0C_003"
+    3300052: "\uD29C\uBE0C_004"
+    3300054: "\uD29C\uBE0C_006"
+    3300056: "\uD29C\uBE0C_2"
+    4300000: Bearing Solar Lower
+    4300002: Bearing Solar Upper
+    4300004: Shaft Solar
+    4300006: Gear Solar (SDP-SI S1VS24-036F1516)
+    4300008: Gear Planetary (SDP-SI S1VS24-018F2016) 02
+    4300010: Bearing Planetary Lower 03
+    4300012: Shaft Planetary 03
+    4300014: Bearing Planetary Upper 03
+    4300016: Bearing Planetary Lower 02
+    4300018: Shaft Planetary 02
+    4300020: Bearing Planetary Upper 02
+    4300022: Bearing Planetary Lower 01
+    4300024: Shaft Planetary 01
+    4300026: Gear Planetary (SDP-SI S1VS24-018F2016) 01
+    4300028: Bearing Planetary Upper 01
+    4300030: Gear Planetary (SDP-SI S1VS24-018F2016) 03
+    4300032: Gear Ring (SDP-SI S1E64Z-024S072)
+    4300034: coeur
+    4300036: f
+    4300038: Gear_050
+    4300040: Gear_053
+    4300042: "\uD29C\uBE0C_2"
+    4300044: "\uD29C\uBE0C_003"
+    4300046: "\uD29C\uBE0C_004"
+    4300048: "\uD29C\uBE0C_006"
+    4300050: Gate_Valve
+    4300052: Gate_Valve001
+    4300054: Gate_Valve002
+    4300056: Box05
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
